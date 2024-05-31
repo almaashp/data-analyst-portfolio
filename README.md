@@ -1,18 +1,84 @@
-# Portfolio 
-This repository contains my data analytics projects throughout my career. Mainly consists of SQL, Python, Google Sheet, Tableau, Looker Studio, and Datadog. 
+# Data Analytics Portfolio
+This repository showcases a selection of my data analytics projects, highlighting my skills and experience in analyzing and visualizing data to generate insights and support decision-making.
 
-## Article
+## About Me
+Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data into meaningful insights that drive decision-making and innovation since 2021. I have experience in various domains, including healthcare, education, and marketing. My work involves using advanced analytical techniques and tools to uncover patterns, trends, and correlations within large datasets. I am particularly interested in understanding how data exclusions and inequalities impact societies and policymaking, and I strive to leverage data to promote equitable solutions.
 
-## SQL
+## Projects
 
-## Google Sheet / Excel
+> [!IMPORTANT]
+> ***All projects featured here presented using dummy data. Except for public ones.***
 
-## Python 
+### 1. Health Workers Inequalities Analysis (Public)
+- Objective: Analyze health workers disparities in Indonesia.
+- Key Insights: Distribution of health workers, impact of areas on health workers distribution, and policy recommendations.
+- Tools & Technologies: SQL BigQuery, Tableau.
 
-## R
+Code: linked here
 
-## Tableau 
+Dashboard: [Profil Tenaga Kesehatan](https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34)
 
-## Looker Studio 
+Article: [Disparity of General Practitioner and Medical Specialist Distribution in Indonesia](https://medium.com/@almaash/disparity-of-general-practitioner-and-medical-specialist-distribution-in-indonesia-f24a2541ba5e)
 
-## Datadog Dashboard 
+### 2. Patient Encounter Insights
+- Objective: Leverage data from the SATU SEHAT platform to improve healthcare digitization.
+- Key Insights: Usage patterns, patient demographics, and diagnosis trends.
+- Tools & Technologies: SQL BigQuery, Tableau.
+
+Code: linked here
+
+Dashboard Run-through: linked here
+
+### 3. Maternity Death Analysis 
+- Objective: Analyze maternal death trends and behavior.
+- Key Insights: Total cost incurred from maternal death, diagnosis that caused maternal death, and maternal death distribution in Indonesia.
+- Tools & Technologies: SQL BigQuery, Looker.
+
+Code: linked here
+
+Dashboard Run-through: linked here
+
+### 4. Health Facility Data Transmission Achievement Analysis
+- Objective: Examine achievements of health facilities data transmission to SATU SEHAT.
+- Key Insights: Achievement distribution, correlation between achivement and total health faciliy in the region, and regional digitalization disparities.
+- Tools & Technologies: SQL, Tableau.
+
+Code: linked here
+
+Dashboard Run-through: linked here
+
+### 5. Cancer Healthcare Service Indicators
+- Objective: Explore cancer patient and diagnosis from SATU SEHAT platform.
+- Key Insights: Cancer patient diagnosis and encounter trends, cancer patient distribution in Indonesia, health facility's services load distribution.
+- Tools & Technologies: SQL, Tableau.
+
+Code: linked here
+
+Dashboard Run-through: linked here
+
+### 6. One Data Website Performance Analysis
+- Objective: One Data is a platform where healthcare related dashboards are centralized to provide insights for public and internal. This project aim to analyze One Data Website performance and utilization.
+- Key Insights: Dashboard visit trends, user funnel, and website feedback.
+- Tools & Technologies: SQL, Tableau.
+
+Code: linked here
+
+Dashboard Run-through: linked here
+
+### Others
+1. Datadog Monitoring Dashboard
+
+    Datadog RUM Exploratory
+
+2. Data Exploratory using Python
+
+    Code: 
+
+3. Data Exploratory using R
+
+    Code:
+
+## Contact
+Feel free to explore the projects and reach out if you have any questions or feedback. You can contact me via email at almaashputridew@gmail.com or connect with me on [LinkedIn]([url](https://www.linkedin.com/in/almaash-putridewi/)).
+
+Thank you for visiting my Data Analytics Portfolio!

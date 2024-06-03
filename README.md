@@ -18,7 +18,7 @@ Code: linked here
 
 Dashboard: [Profil Tenaga Kesehatan](https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34)
 
-Article: [Disparity of General Practitioner and Medical Specialist Distribution in Indonesia](https://medium.com/@almaash/disparity-of-general-practitioner-and-medical-specialist-distribution-in-indonesia-f24a2541ba5e)
+Article: [Overview and Role of Data in Reducing Health Workers Disparities in Indonesia](https://medium.com/@dtokemkes/overview-and-role-of-data-in-reducing-health-workers-disparities-in-indonesia-7fe84240c6b8)
 
 ### 2. Patient Encounter Insights
 - Objective: Leverage data from the SATU SEHAT platform to improve healthcare digitization.

@@ -14,7 +14,7 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 - Key Insights: Distribution of health workers, impact of areas on health workers distribution, and policy recommendations.
 - Tools & Technologies: SQL BigQuery, Tableau.
 
-Code: linked here
+Code & Documentation: [nakes_profile](https://portfolio-almaash.atlassian.net/wiki/external/OGU5YTMxMTc0OTY2NDE0Yjk4NTlhNWZmNmMwMmRmMjg)
 
 Dashboard: [Profil Tenaga Kesehatan](https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34)
 
@@ -25,7 +25,7 @@ Article: [Overview and Role of Data in Reducing Health Workers Disparities in In
 - Key Insights: Usage patterns, patient demographics, and diagnosis trends.
 - Tools & Technologies: SQL BigQuery, Tableau.
 
-Code: linked here
+Code & Documentation: [summary_monitoring_encounter](https://portfolio-almaash.atlassian.net/wiki/external/MWVlZmQwNDIwZDQ5NDA4MGEzZjViOTVjZDg2MTg4MGI)
 
 Dashboard Run-through: linked here
 

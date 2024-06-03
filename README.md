@@ -29,7 +29,7 @@ Code & Documentation: [summary_monitoring_encounter](https://portfolio-almaash.a
 
 Dashboard Run-through: linked here
 
-### 3. Maternity Death Analysis 
+### 3. Maternal Death Analysis 
 - Objective: Analyze maternal death trends and behavior.
 - Key Insights: Total cost incurred from maternal death, diagnosis that caused maternal death, and maternal death distribution in Indonesia.
 - Tools & Technologies: SQL BigQuery, Looker.

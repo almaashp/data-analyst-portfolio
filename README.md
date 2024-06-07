@@ -7,7 +7,7 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 ## Projects
 
 > [!IMPORTANT]
-> ***All projects featured here presented using dummy data. Except for public ones.***
+> ***All projects featured here presented using dummy data.***
 
 ### 1. Health Workers Inequalities Analysis (Public)
 - Objective: Analyze health workers disparities in Indonesia.

@@ -34,7 +34,7 @@ Dashboard Run-through: linked here
 - Key Insights: Total cost incurred from maternal death, diagnosis that caused maternal death, and maternal death distribution in Indonesia.
 - Tools & Technologies: SQL BigQuery, Looker.
 
-Code: linked here
+Code & Documentation: [Maternal Death Data](https://portfolio-almaash.atlassian.net/wiki/external/NDg0ZjVjMDYzMTU0NDVlNTgwNTFiZWUxYjhiNjJkZmM)
 
 Dashboard Run-through: linked here
 
@@ -43,7 +43,7 @@ Dashboard Run-through: linked here
 - Key Insights: Achievement distribution, correlation between achivement and total health faciliy in the region, and regional digitalization disparities.
 - Tools & Technologies: SQL, Tableau.
 
-Code: linked here
+Code & Documentation: [detail_healthfacilities](https://portfolio-almaash.atlassian.net/wiki/external/M2NmY2I0OWFiODg4NDgyMzkxMWE2OGIzMzFkZmNmZTY)
 
 Dashboard Run-through: linked here
 
@@ -52,7 +52,7 @@ Dashboard Run-through: linked here
 - Key Insights: Cancer patient diagnosis and encounter trends, cancer patient distribution in Indonesia, health facility's services load distribution.
 - Tools & Technologies: SQL, Tableau.
 
-Code: linked here
+Code & Documentation: [summary_patient_cancer_encounter_diagnosis](https://portfolio-almaash.atlassian.net/wiki/external/ODc3ZWVkY2E0YzlmNGJlNWE1ZjlkZWMxMGJmZWZlYmM)
 
 Dashboard Run-through: linked here
 
@@ -61,7 +61,7 @@ Dashboard Run-through: linked here
 - Key Insights: Dashboard visit trends, user funnel, and website feedback.
 - Tools & Technologies: SQL, Tableau.
 
-Code: linked here
+Code & Documentation: [One Data Performance](https://portfolio-almaash.atlassian.net/wiki/external/MWUzMDQwNjNhOWE1NDFiZWJhNzQ0YmI3N2VkNmMzYTk)
 
 Dashboard Run-through: linked here
 

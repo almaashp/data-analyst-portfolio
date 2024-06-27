@@ -45,7 +45,7 @@ Dashboard Run-through: linked here
 
 Code & Documentation: [detail_healthfacilities](https://portfolio-almaash.atlassian.net/wiki/external/M2NmY2I0OWFiODg4NDgyMzkxMWE2OGIzMzFkZmNmZTY)
 
-Dashboard Run-through: linked here
+Dashboard: [Dashboard Pemantauan Aliran Data SATUSEHAT](https://satusehat.kemkes.go.id/data/dashboard/47ef4c43-4ea0-4d1f-a5e5-7d38afcb4edf)
 
 ### 5. Cancer Healthcare Service Indicators
 - Objective: Explore cancer patient and diagnosis from SATU SEHAT platform.

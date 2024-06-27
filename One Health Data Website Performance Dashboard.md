@@ -31,3 +31,8 @@ User Registration section can be found when clicking the toggle button. This sec
 Finally, there is a feedback section where decision makers can see the website’s rate and give consecutive feedbacks from users. Given this information, it expects that the ones who make decision can precisely improve the platform based on feedbacks while ensuring user’s satisfaction. 
 
 ![Untitled2 (1)](https://github.com/almaashp/data-analyst-portfolio/assets/123085922/ad1547ae-10bc-4c76-a044-53459aeb6537)
+
+
+## New Visualization
+### User Retention 
+![image](https://github.com/almaashp/data-analyst-portfolio/assets/123085922/3630f0d1-d2bd-4bf6-8ad1-2723be35345f)

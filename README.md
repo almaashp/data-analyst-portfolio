@@ -14,69 +14,46 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 - Key Insights: Distribution of health workers, impact of areas on health workers distribution, and policy recommendations.
 - Tools & Technologies: SQL BigQuery, Tableau.
 
-Code & Documentation: [Health Workers Profile.md](https://github.com/almaashp/data-analyst-portfolio/blob/main/Health%20Workers%20Profile.md#health-workers-profile)
+Code & Documentation: [Health Workers Profile](https://github.com/almaashp/data-analyst-portfolio/blob/main/Health%20Workers%20Profile.md#health-workers-profile)
 
 Dashboard: [Profil Tenaga Kesehatan](https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34)
 
 Article: [Overview and Role of Data in Reducing Health Workers Disparities in Indonesia](https://medium.com/@dtokemkes/overview-and-role-of-data-in-reducing-health-workers-disparities-in-indonesia-7fe84240c6b8)
 
-### 2. Patient Encounter Insights
-- Objective: Leverage data from the SATU SEHAT platform to improve healthcare digitization.
-- Key Insights: Usage patterns, patient demographics, and diagnosis trends.
-- Tools & Technologies: SQL BigQuery, Tableau.
-
-Code & Documentation: [summary_monitoring_encounter](https://portfolio-almaash.atlassian.net/wiki/external/MWVlZmQwNDIwZDQ5NDA4MGEzZjViOTVjZDg2MTg4MGI)
-
-Dashboard Run-through: linked here
-
-### 3. Maternal Death Analysis 
+### 2. Maternal Death Analysis 
 - Objective: Analyze maternal death trends and behavior.
 - Key Insights: Total cost incurred from maternal death, diagnosis that caused maternal death, and maternal death distribution in Indonesia.
 - Tools & Technologies: SQL BigQuery, Looker.
 
-Code & Documentation: [Maternal Death Data](https://portfolio-almaash.atlassian.net/wiki/external/NDg0ZjVjMDYzMTU0NDVlNTgwNTFiZWUxYjhiNjJkZmM)
+Code & Documentation: [Maternal Death Data](https://github.com/almaashp/data-analyst-portfolio/blob/main/Maternal%20Death.md)
 
-Dashboard Run-through: linked here
+Dashboard Run-through: [Maternal Death Analysis Dashboard](https://github.com/almaashp/data-analyst-portfolio/blob/main/Maternal%20Death%20Analysis%20Dashboard.md#maternal-death-analysis-dashboard)
 
-### 4. Health Facility Data Transmission Achievement Analysis
+### 3. Health Facility Data Transmission Achievement Analysis
 - Objective: Examine achievements of health facilities data transmission to SATU SEHAT.
 - Key Insights: Achievement distribution, correlation between achivement and total health faciliy in the region, and regional digitalization disparities.
 - Tools & Technologies: SQL, Tableau.
 
-Code & Documentation: [detail_healthfacilities](https://portfolio-almaash.atlassian.net/wiki/external/M2NmY2I0OWFiODg4NDgyMzkxMWE2OGIzMzFkZmNmZTY)
-
 Dashboard: [Dashboard Pemantauan Aliran Data SATUSEHAT](https://satusehat.kemkes.go.id/data/dashboard/47ef4c43-4ea0-4d1f-a5e5-7d38afcb4edf)
 
-### 5. Cancer Healthcare Service Indicators
-- Objective: Explore cancer patient and diagnosis from SATU SEHAT platform.
-- Key Insights: Cancer patient diagnosis and encounter trends, cancer patient distribution in Indonesia, health facility's services load distribution.
-- Tools & Technologies: SQL, Tableau.
-
-Code & Documentation: [summary_patient_cancer_encounter_diagnosis](https://portfolio-almaash.atlassian.net/wiki/external/ODc3ZWVkY2E0YzlmNGJlNWE1ZjlkZWMxMGJmZWZlYmM)
-
-Dashboard Run-through: linked here
-
-### 6. One Data Website Performance Analysis
+### 4. One Data Website Performance Analysis
 - Objective: One Data is a platform where healthcare related dashboards are centralized to provide insights for public and internal. This project aim to analyze One Data Website performance and utilization.
 - Key Insights: Dashboard visit trends, user funnel, and website feedback.
 - Tools & Technologies: SQL, Tableau.
 
-Code & Documentation: [One Data Performance](https://portfolio-almaash.atlassian.net/wiki/external/MWUzMDQwNjNhOWE1NDFiZWJhNzQ0YmI3N2VkNmMzYTk)
+Code & Documentation: [One Health Data Website Performance](https://github.com/almaashp/data-analyst-portfolio/blob/main/One%20Health%20Data%20Website%20Performance.md#one-health-data-website-performance)
 
-Dashboard Run-through: [linked here](https://portfolio-almaash.atlassian.net/wiki/external/MzFlMzgxNjM3MTJjNDdhY2I5Njk5ZjU1MzFlZDBjOTA)
+Dashboard Run-through: [One Health Data Website Performance Dashboard](https://github.com/almaashp/data-analyst-portfolio/blob/main/One%20Health%20Data%20Website%20Performance.md#one-health-data-website-performance)
 
-### Others
-1. Datadog Monitoring Dashboard
+## Article
+Revolutionizing Healthcare Monitoring with the SATUSEHAT Implementation Monitoring Dashboard [linked here](https://medium.com/@almaash/revolutionizing-healthcare-monitoring-with-the-satusehat-implementation-monitoring-dashboard-e5fad1bceb87)
 
-    Datadog RUM Exploratory
+Disparity of General Practitioner and Medical Specialist Distribution in Indonesia [linked here](https://medium.com/@almaash/disparity-of-general-practitioner-and-medical-specialist-distribution-in-indonesia-f24a2541ba5e)
 
+## Other 
+1. Datadog (Real User Monitoring) RUM Dashboard
 2. Data Exploratory using Python
-
-    Code: 
-
 3. Data Exploratory using R
-
-    Code:
 
 ## Contact
 Feel free to explore the projects and reach out if you have any questions or feedback. You can contact me via email at almaashputridew@gmail.com or connect with me on [LinkedIn]([url](https://www.linkedin.com/in/almaash-putridewi/)).

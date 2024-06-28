@@ -25,9 +25,9 @@ Article: [Overview and Role of Data in Reducing Health Workers Disparities in In
 - Key Insights: Total cost incurred from maternal death, diagnosis that caused maternal death, and maternal death distribution in Indonesia.
 - Tools & Technologies: SQL BigQuery, Looker.
 
-Code & Documentation: [Maternal Death Data](https://github.com/almaashp/data-analyst-portfolio/blob/main/Maternal%20Death.md)
+Code & Documentation: [Maternal Death](https://github.com/almaashp/data-analyst-portfolio/blob/main/Maternal%20Death.md)
 
-Dashboard Run-through: [Maternal Death Analysis Dashboard](https://github.com/almaashp/data-analyst-portfolio/blob/main/Maternal%20Death%20Analysis%20Dashboard.md#maternal-death-analysis-dashboard)
+Dashboard Run-through: [Maternal Death Dashboard](https://github.com/almaashp/data-analyst-portfolio/blob/main/Maternal%20Death%20Analysis%20Dashboard.md#maternal-death-analysis-dashboard)
 
 ### 3. Health Facility Data Transmission Achievement Analysis
 - Objective: Examine achievements of health facilities data transmission to SATU SEHAT.

@@ -43,10 +43,10 @@ Disparity of General Practitioner and Medical Specialist Distribution in Indones
 3. Data Exploratory using R
 
 ## Public Dashboard
-1. [Monitoring Implementasi SATUSEHAT Seluruh Indonesia]([url](https://satusehat.kemkes.go.id/data/dashboard/3678097d-d11e-4b2c-8552-310d782a905b))
-2. [Dashboard Pemantauan Aliran Data SATUSEHAT]([url](https://satusehat.kemkes.go.id/data/dashboard/47ef4c43-4ea0-4d1f-a5e5-7d38afcb4edf))
-3. [Profil Tenaga Kesehatan]([url](https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34))
-4. [Dashboard Monitoring Pengiriman Data Sandbox SATUSEHAT]([url](https://satusehat.kemkes.go.id/data/dashboard/8648699e-7ed3-4ece-adb6-3415f7ac145e))
+1. [Monitoring Implementasi SATUSEHAT Seluruh Indonesia]((https://satusehat.kemkes.go.id/data/dashboard/3678097d-d11e-4b2c-8552-310d782a905b))
+2. [Dashboard Pemantauan Aliran Data SATUSEHAT]((https://satusehat.kemkes.go.id/data/dashboard/47ef4c43-4ea0-4d1f-a5e5-7d38afcb4edf))
+3. [Profil Tenaga Kesehatan]((https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34))
+4. [Dashboard Monitoring Pengiriman Data Sandbox SATUSEHAT]((https://satusehat.kemkes.go.id/data/dashboard/8648699e-7ed3-4ece-adb6-3415f7ac145e))
 
 
 ## Contact

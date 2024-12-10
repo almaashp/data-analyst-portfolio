@@ -6,9 +6,17 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 
 ## Public Dashboards
 1. [Monitoring Implementasi SATUSEHAT Seluruh Indonesia](https://satusehat.kemkes.go.id/data/dashboard/3678097d-d11e-4b2c-8552-310d782a905b)
+   - Total Views: > 400,000 times.
+   - Purpose: To monitor the implementation of the SATUSEHAT platform across Indonesia, providing stakeholders with insights into the progress and status of integration efforts nationwide.
 2. [Dashboard Pemantauan Aliran Data SATUSEHAT](https://satusehat.kemkes.go.id/data/dashboard/47ef4c43-4ea0-4d1f-a5e5-7d38afcb4edf)
+   - Total Views: > 200,000 times.
+   - Purpose: To track the data flow from healthcare facilities to the SATUSEHAT platform, ensuring data is transmitted accurately and timely, which is crucial for maintaining up-to-date health records.
 3. [Profil Tenaga Kesehatan](https://satusehat.kemkes.go.id/data/dashboard/c8b80eb9-07bd-4ac9-82c9-13993a360a34)
+   - Total Views: > 28,000 times.
+   - Purpose: To provide detailed profiles of healthcare workers in Indonesia, including distribution and qualifications, aiding in workforce planning and addressing disparities.
 4. [Dashboard Monitoring Pengiriman Data Sandbox SATUSEHAT](https://satusehat.kemkes.go.id/data/dashboard/8648699e-7ed3-4ece-adb6-3415f7ac145e)
+   - Total Views: > 20,000 times.
+   - Purpose: To monitor data submissions in the SATUSEHAT sandbox environment, facilitating testing and validation of data integration processes before full implementation.
 
 ## Article
 1. Revolutionizing Healthcare Monitoring with the SATUSEHAT Implementation Monitoring Dashboard [linked here](https://medium.com/@almaash/revolutionizing-healthcare-monitoring-with-the-satusehat-implementation-monitoring-dashboard-e5fad1bceb87)

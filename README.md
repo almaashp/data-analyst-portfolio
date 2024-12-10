@@ -2,7 +2,7 @@
 This repository showcases a selection of my data analytics projects, highlighting my skills and experience in analyzing and visualizing data to generate insights and support decision-making.
 
 ## About Me
-Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data into meaningful insights that drive decision-making and innovation since 2021. I have experience in various domains, including healthcare, education, and marketing. My work involves using advanced analytical techniques and tools to uncover patterns, trends, and correlations within large datasets. I am particularly interested in understanding how data exclusions and inequalities impact societies and policymaking, and I strive to leverage data to promote equitable solutions.
+Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data into meaningful insights that drive decision-making and innovation since 2021. I have experience in various domains, including healthcare, education, and marketing. My work involves using advanced analytical techniques and tools to uncover patterns, trends, and correlations within large datasets. I am particularly interested in solving business problems and understanding how data exclusions and inequalities impact societies and policymaking, and I strive to leverage data to promote equitable solutions.
 
 ## Public Dashboards
 1. [Monitoring Implementasi SATUSEHAT Seluruh Indonesia](https://satusehat.kemkes.go.id/data/dashboard/3678097d-d11e-4b2c-8552-310d782a905b)
@@ -34,7 +34,16 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 - Viz to Highlight: [One Health Data Website Performance Dashboard](https://github.com/almaashp/data-analyst-portfolio/blob/main/One%20Health%20Data%20Website%20Performance%20Dashboard.md)
 
 #### 3. Mental Health Analysis 
-- In Progress
+- Objective: Highlight the state of mental health in Indonesia using SATUSEHAT data, focusing on prevalence, psychiatrist availability, and regional disparities.
+- Key Insights: Mental health prevalence, psychiatrist ratio, regional disparities, patient data trends
+- Tools & Technologies: SQL BigQuery, Tableau.
+- Article: [Reflecting Mental Health Situation in Indonesia with SATUSEHAT](https://medium.com/@dtokemkes/reflecting-mental-health-situation-in-indonesia-with-satusehat-e76bd1e0c8ce)
+
+#### 4. Diabetes Insights
+- Objective: Provide insights into diabetes management in Indonesia using SATUSEHAT data, focusing on prevalence, diagnosis, and treatment patterns.
+- Key Insights: Diabetes prevalence, patient demography, common commorbidities and complications 
+- Tools & Technologies: SQL BigQuery, Tableau.
+- Article: [Uncovering Diabetes Insights through SATUSEHAT](https://medium.com/@dtokemkes/uncovering-diabetes-insights-through-satusehat-97085166ddd4)
 
 ## Others
 1. Datadog (Real User Monitoring) RUM Dashboard

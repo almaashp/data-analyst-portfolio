@@ -23,6 +23,7 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 2. Disparity of General Practitioner and Medical Specialist Distribution in Indonesia [linked here](https://medium.com/@almaash/disparity-of-general-practitioner-and-medical-specialist-distribution-in-indonesia-f24a2541ba5e)
 3. A Closer Look at Psychiatrists and Mental Health in Indonesia [linked here](https://medium.com/@almaash/a-closer-look-at-psychiatrists-and-mental-health-in-indonesia-41cc9cc61efd)
 4. Road to Accessible Laboratory Data for All through SATUSEHAT Mobile [linked here](https://medium.com/@almaash/road-to-accessible-laboratory-data-for-indonesians-through-satusehat-mobile-da0d695cf3c1)
+5. Facet Grid Tutorial in Tableau [linked here](https://medium.com/@almaash/facet-grid-in-tableau-a8b6d0da8228)
 
 ## Selected Projects
 > [!IMPORTANT]
@@ -57,6 +58,7 @@ Hi, I'm Almaash! I am a data enthusiast with a passion for transforming raw data
 1. Datadog (Real User Monitoring) RUM Dashboard
 2. Data Exploratory using Python
 3. Data Exploratory using R
+4. Tableau Public Profile: [Linked here](https://public.tableau.com/app/profile/almaash.putridewi/vizzes)
 
 ## Contact
 Feel free to explore the projects and reach out if you have any questions or feedback. You can contact me via email at almaashputridew@gmail.com or connect with me on [LinkedIn]([url](https://www.linkedin.com/in/almaash-putridewi/)).
